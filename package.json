@@ -31,6 +31,6 @@
     "mocha": "^5.2.0"
   },
   "dependencies": {
-    "bignum": "^0.12.5"
+    "bignum": "^0.13.0"
   }
 }
